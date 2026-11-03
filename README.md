@@ -1,14 +1,6 @@
 # Al-Mushajjir | المُشَجِّر 
 
-<p align="center">
   <img src="assets/logo.png" alt="المُشَجِّر Logo" width="250">
-</p>
-
-<h1 align="center">المُشَجِّر</h1>
-
-<p align="center">
-  From educational materials to structured knowledge.
-</p>
 
 ### Transform educational materials into structured knowledge.
 
